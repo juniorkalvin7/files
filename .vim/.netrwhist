@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/alvin/Documentos/ProjetoCGA/modules/development/centreon/manifests/client'
+let g:netrw_dirhist_2='/home/alvin/Workspace/centreon/lib/puppet/provider/centreon_service'
+let g:netrw_dirhist_3='/home/alvin/Documentos/ProjetoCGA/modules/centreon/lib/puppet/provider/centreon_host'
+let g:netrw_dirhist_4='/home/alvin/Documentos/ProjetoCGA/cga_cmp/manifests/client'
+let g:netrw_dirhist_5='/home/alvin/Documentos/ProjetoCGA/modules/cga_cmp/manifests/client'
+let g:netrw_dirhist_6='/home/alvin/Workspace/centreon/manifests/client'
